@@ -6,6 +6,8 @@ Bem-vindo ao repositório do PokéX Adventure! Este é o ponto central para o se
 
 O PokéX Adventure é um projeto colaborativo para desenvolver um servidor de Poketibia único e cativante. Procuramos criar mecânicas inovadoras, sistemas únicos e conteúdos exclusivos, co-criados com a comunidade.
 
+[Nossa Todo-List + Road Map](https://github.com/orgs/under-online-games/projects/1)
+
 ## Repositórios Relacionados
 
 - [SRC (Source Code)](link_para_o_repositorio_SRC): Repositório principal para o código-fonte do servidor.
