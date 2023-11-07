@@ -50,6 +50,6 @@ Entre em contato conosco para obter acesso aos repositórios específicos e cont
 
 ## Licença
 
-O PokéX Adventure é um projeto sem fins lucrativos, desenvolvido de forma colaborativa pela comunidade. Todos os direitos são reservados para os respectivos colaboradores.
+O PokéX Adventure é um projeto sem fins lucrativos, desenvolvido de forma colaborativa. Todos os direitos são reservados para os respectivos colaboradores.
 
 Divirta-se colaborando conosco!
