@@ -10,8 +10,8 @@ O PokéX Adventure é um projeto colaborativo para desenvolver um servidor de Po
 
 ## Repositórios Relacionados
 
-- [SRC (Source Code)](link_para_o_repositorio_SRC): Repositório principal para o código-fonte do servidor.
-- [DataPack](link_para_o_repositorio_DataPack): Repositório para conteúdos e informações relacionadas ao jogo.
+- [SRC (Source Code)](https://github.com/under-online-games/PokeXAdventure-src): Repositório principal para o código-fonte do servidor.
+- [DataPack](https://github.com/under-online-games/pokexadventure-datapack): Repositório para conteúdos e informações relacionadas ao jogo.
 - [Website](link_para_o_repositorio_Website): Repositório para o desenvolvimento do site do servidor.
 - [OTC SRC](link_para_o_repositorio_OTC_SRC): Repositório dedicado ao código-fonte do cliente personalizado.
 - [OTC Modules](link_para_o_repositorio_OTC_Modules): Repositório para módulos do cliente personalizado.
