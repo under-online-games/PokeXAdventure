@@ -22,9 +22,31 @@ Este repositório serve como um ponto de acesso para as diferentes áreas do pro
 
 Sinta-se à vontade para explorar os diferentes repositórios e suas seções correspondentes para contribuir com o projeto!
 
+## Ferramentas de Projeto
+
+### Editor de Itens
+
+- **Descrição:** Ferramenta utilizada para criar e editar os atributos dos itens presentes no jogo.
+- **Repositório:** [Link para o repositório do Editor de Itens](link_para_o_repositorio_editor_itens)
+
+### Object Builder
+
+- **Descrição:** Utilizado para a criação e manipulação de elementos e objetos no jogo.
+- **Repositório:** [Link para o repositório do Object Builder](link_para_o_repositorio_object_builder)
+
+### Remeres Map Editor
+
+- **Descrição:** Ferramenta especializada na construção e edição de mapas, regiões e ambientes do jogo.
+- **Repositório:** [Link para o repositório do Remeres Map Editor](link_para_o_repositorio_remeres_map_editor)
+
+### Editores
+
+- **Microsoft Visual Studio (VS):** Utilizado para compilar e depurar o código fonte do servidor.
+- **Visual Studio Code (VS Code):** Ótimo para edição e revisão de código, com suporte a uma variedade de linguagens de programação.
+
 ## Contribuição
 
-Se você está interessado em participar do projeto, entre em contato conosco para obter acesso aos repositórios específicos e contribuir com suas habilidades e ideias.
+Entre em contato conosco para obter acesso aos repositórios específicos e contribuir com suas habilidades e ideias.
 
 ## Licença
 
